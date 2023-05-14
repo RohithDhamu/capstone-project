@@ -1,2 +1,0 @@
-webpage url: http://13.232.159.64/
-Dockerhub: https://hub.docker.com/repositories/rohithdhamu
